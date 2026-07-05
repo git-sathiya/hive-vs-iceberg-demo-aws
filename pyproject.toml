@@ -1,0 +1,2 @@
+[tool.pyrefly]
+python-interpreter-path = "hive-iceberg_py_venv/bin/python"
